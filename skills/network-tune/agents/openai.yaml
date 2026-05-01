@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Tune"
+  short_description: "Agent-guided VPS TCP tuning over SSH."
+  default_prompt: "Tune TCP/BBR on root@<host> and verify persistence after reboot."
