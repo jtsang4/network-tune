@@ -1,4 +1,4 @@
 interface:
-  display_name: "代理组网"
+  display_name: "Proxy Networking"
   short_description: "Build proxy relays across VPS nodes."
   default_prompt: "Use $proxy-networking to build a relay-to-exit proxy network and verify the links."
